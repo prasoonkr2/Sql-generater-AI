@@ -1,0 +1,2 @@
+emp_data_master(name TEXT, age INTEGER, department TEXT, emp_id TEXT, corp_id UUID, gender TEXT)
+org_employee_vitals_entity(emp_id TEXT, sugar INTEGER, weight INTEGER, height INTEGER)
